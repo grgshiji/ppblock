@@ -1,0 +1,8 @@
+{
+  "name": "ppblock",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/grgshiji/ppblock",
+    "ssh": "git@github.com:grgshiji/ppblock.git"
+  }
+}
